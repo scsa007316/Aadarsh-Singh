@@ -58,16 +58,11 @@ const Page = () => {
   ];
 
   const videos2 = [
-    { source: "/Videos/SM.mp4", title: "Black Hole Hawking Evaporation" },
-    { source: "/Videos/Mandelbulb.mp4", title: "Intergalactic Black Hole" },
-    { source: "/Videos/Galaxy.mp4", title: "Gravitational Waves from two Black Holes" },
+    { source: "/Videos/SM.mp4", title: "Standard Model of Particle Physics" },
+    { source: "/Videos/Mandelbulb.mp4", title: "An Evolving 3D Fractal" },
+    { source: "/Videos/Galaxy.mp4", title: "A Galaxy in the Universe" },
   ];
 
-  const videos3 = [
-    { source: "/Videos/Black.mkv", title: "Black Hole Hawking Evaporation" },
-    { source: "/Videos/Mandelbulb.mp4", title: "Intergalactic Black Hole" },
-    { source: "/Videos/Galaxy.mp4", title: "Gravitational Waves from two Black Holes" },
-  ];
 
   React.useEffect(() => {
     console.log('Effect triggered');

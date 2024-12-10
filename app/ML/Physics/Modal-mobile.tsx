@@ -378,7 +378,7 @@ const Modalphymob = () => {
   }}
 >
   <div>
-    <h1 style={{ border: '2px solid white', padding: '10px' }}>8) Rank and Nullity of Elementwise</h1>
+    <h1 style={{ border: '2px solid white', padding: '10px' }}>8) Rank and Nullity of Elementwise Transformation</h1>
   </div>
 </div>
 

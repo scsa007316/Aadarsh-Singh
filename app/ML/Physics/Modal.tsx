@@ -369,7 +369,7 @@ const Modalphy = () => {
           cursor: 'pointer',
         }}
       >
-   <TranslatingComponent lines={["8) Rank and Nullity of Elementwise", "Description of the Project"]} />
+   <TranslatingComponent lines={["8) Rank and Nullity of Elementwise Transformation", "Description of the Project"]} />
 
       </div>
 
